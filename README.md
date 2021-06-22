@@ -1,2 +1,2 @@
-### Hi there 👋
-Telegram -> https://t.me/shubhampednekar
+### 🙏
+https://keybase.io/pednekar
