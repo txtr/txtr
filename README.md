@@ -1,16 +1,12 @@
-## Hi there 👋
+### Hi there 👋
+- 😄 Pronouns: He/Him
+- 💬 Ask me about Algorithms, Data Structures, Linux Internals, Docker, Cloud (Mostly OCI & AWS) and My Cute Cat.
+- 🌱 I’m currently learning C#, .NET ecosystem, K8S and to Not Making Bad Jokes (this one will take a while). 
 
-<!--
-**txtr/txtr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 How to reach me:
+  - Make a Pull Request if you want to contribute.
+  - An issue if you can't sleep at night.
+  - My [LinkedIn](https://linkedin.com/in/shubhampednekar) if you want to hire me.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact:
+  - I love Compilers, PLT, Turing Machines and Math.
