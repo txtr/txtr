@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 😄 Pronouns: He/Him
-- 💬 Ask me about Algorithms, Data Structures, Linux Internals, Docker, Cloud (Mostly OCI & AWS) and My Cute Cat.
+- 💬 Ask me about Algorithms, Data Structures, Linux Internals, Docker, Cloud (Mostly OCI & AWS).
 - 🌱 I’m currently learning C#, .NET ecosystem, K8S and to Not Making Bad Jokes (this one will take a while). 
 
 - 📫 How to reach me:
